@@ -1,1 +1,1 @@
-import {  } from '@/main/index'
+// This is a example
